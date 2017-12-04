@@ -4,12 +4,12 @@
 ## Hamfekr
 * مکانی برای گپ و گفت گو در مورد استارتاپ ها و تجارت الکترونیک.
 * هر‌هفته در تهران
-* [رزرو](http://evand.ir/Hamfekr)، [وبسایت](http://hamfekr.net/)، [توییتر](https://twitter.com/hamfekr_tehran)
+* [رزرو](http://evand.com/Hamfekr)، [وبسایت](http://hamfekr.net/)، [توییتر](https://twitter.com/hamfekr_tehran)
 
 ## Laratalks
 * جلساتی هر دو هفته یک بار برای بحث درباره مسائل روز در دنیای استارت آپ ها،‌ آی تی و مخصوصا لارول.
 * دو هفته یکبار در تهران
-* [رزرو](http://evand.ir/laratalks)، [وبسایت](http://laratalks.com/)، [توییتر](https://twitter.com/laratalks_com)، [فیسبوک](https://www.facebook.com/laratalks)
+* [وبسایت](http://laratalks.com/)، [توییتر](https://twitter.com/laratalks_com)، [فیسبوک](https://www.facebook.com/laratalks)
 
 ## Open community of cloud computing
 * جامعه آزاد رایانش ابری ایران به منظور ایجاد پنجره ای واحدی در توسعه و بومی سازی فناوری اطلاعات بعنوان یک صنعت همگانی ایجاد شده است.
@@ -19,7 +19,7 @@
 ## Tehlug
 * تم محوری جلسات تهران‌لاگ عبارت است از نرم افزار آزاد به صورت عمومی. با این حال، فعالیت‌های متفاوتی از جمله معرفی توزیع‌های آزاد گنو/لینوکسی، معرفی انواع سیستم‌عامل‌های آزاد خانواده‌ی بی‌اس‌دی، نصب آنها، محتوای آموزشی و حتی بحث آزاد در حوزه‌ی تئوریک نرم افزار آزاد نیز به طور همزمان در این اجتماع دنبال می‌شوند.
 * هر چند وقت یکبار در تهران
-* [رزرو](https://evand.ir/tehlug)، [وبسایت](http://tehlug.org/)، [توییتر](https://twitter.com/tehlug)، [فیسبوک](https://www.facebook.com/tehlug)
+* [رزرو](https://evand.com/tehlug)، [وبسایت](http://tehlug.org/)، [توییتر](https://twitter.com/tehlug)، [فیسبوک](https://www.facebook.com/tehlug)
 
 ## Tehpug
 * آشنایی بیشتر افراد با پایتون و گسترش آن.
@@ -29,7 +29,7 @@
 ## TehranJS
 * تهران جی اس تشکلی خودجوش است برای برگزاری نشست های ماهانه پیرامون جاوا اسکریپت و جدید ترین تکنولوژی های دنیای وب.
 * دو هفته یکبار در تهران
-* [رزرو](https://evand.ir/tehranjs)، [توییتر](https://twitter.com/tehranjs)
+* [رزرو](https://evand.com/tehranjs)، [توییتر](https://twitter.com/tehranjs)
 
 ## Isfahanlug
 * این گروه‌ها به منظور تشویق برای استفاده از نرم‌افزار آزاد و همچنین گنو/لینوکس و همچنین ایجاد کردن یک اجتماع فعال و پویا از کاربران لینوکس کار به جهت پشتیبان کاربران و مشارکت کنندگان در گنو/لینوکس و نرم‌افزار آزاد می‌باشد.
