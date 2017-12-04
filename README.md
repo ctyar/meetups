@@ -1,0 +1,21 @@
+﻿# دورهمی‌های IT
+
+نام | شهر | زمان | رزرو | توضیحات | شبکه‌های اجتماعی
+:--- | ---: | ---: | ---: | ---: | ---
+[Hamfekr](http://hamfekr.net/) | تهران | هر‌هفته | [رزرو](http://evand.ir/Hamfekr) | مکانی برای گپ و گفت گو در مورد استارتاپ ها و تجارت الکترونیک | [twitter](https://twitter.com/hamfekr_tehran)
+[Laratalks](http://laratalks.com/) | تهران | دو هفته یکبار | [رزرو](http://evand.ir/laratalks) | جلساتی هر دو هفته یک بار برای بحث درباره مسائل روز در دنیای استارت آپ ها،‌ آی تی و مخصوصا لارول | [twitter](https://twitter.com/laratalks_com), [facebook](https://www.facebook.com/laratalks)
+[Open community of cloud computing](http://occc.ir/) | تهران | دو هفته یکبار | - | جامعه آزاد رایانش ابری ایران به منظور ایجاد پنجره ای واحدی در توسعه و بومی سازی فناوری اطلاعات بعنوان یک صنعت همگانی ایجاد شده است. | [facebook](https://www.facebook.com/groups/autcloud/)
+[Tehlug](http://tehlug.org/) | تهران | هر چند وقت یکبار | [رزرو](https://evand.ir/tehlug) | تم محوری جلسات تهران‌لاگ عبارت است از نرم افزار آزاد به صورت عمومی. با این حال، فعالیت‌های متفاوتی از جمله معرفی توزیع‌های آزاد گنو/لینوکسی، معرفی انواع سیستم‌عامل‌های آزاد خانواده‌ی بی‌اس‌دی، نصب آنها، محتوای آموزشی و حتی بحث آزاد در حوزه‌ی تئوریک نرم افزار آزاد نیز به طور همزمان در این اجتماع دنبال می‌شوند | [twitter](https://twitter.com/tehlug), [facebook](https://www.facebook.com/tehlug)
+[Tehpug](http://tehpug.ir/) | تهران | دو هفته یکبار | - | آشنایی بیشتر افراد با پایتون و گسترش آن | [twitter](https://twitter.com/TehPUG), [facebook](http://www.facebook.com/tehpug)
+TehranJS | تهران | دو هفته یکبار | [رزرو](https://evand.ir/tehranjs) | تهران جی اس تشکلی خودجوش است برای برگزاری نشست های ماهانه پیرامون جاوا اسکریپت و جدید ترین تکنولوژی های دنیای وب | [twitter](https://twitter.com/tehranjs)
+[Isfahanlug](http://www.isfahanlug.org/) | اصفهان | هر‌هفته | - | این گروه‌ها به منظور تشویق برای استفاده از نرم‌افزار آزاد و همچنین گنو/لینوکس و همچنین ایجاد کردن یک اجتماع فعال و پویا از کاربران لینوکس کار به جهت پشتیبان کاربران و مشارکت کنندگان در گنو/لینوکس و نرم‌افزار آزاد می‌باشد.  | 
+[Bulug](http://bulug.ir/) | بوشهر | هر چند وقت یکبار | - |  | 
+[Tabriz software open talks](http://tabrizsoftware.opentalks.co/) | تبریز | هر چند وقت یکبار | - | جمعی از متخصصین نرم‌افزار که به طور هفتگی دور هم جمع می‌شویم تا یاد بگیریم و یاد بدهیم | [facebook](https://www.facebook.com/tosts.net)
+[Gullug](http://www.gullug.org/) | رشت | هر‌هفته | - | گروه کاربران لینوکس بوشهر (بوشهر لاگ) نیز با هدف آموزش و ترویج فرهنگ استفاده از نرم افزارهای آزاد و متن باز در استان بوشهر در تاریخ 2 خرداد 1391 با همکاری فصلنامه نرم افزارهای آزاد و پارک علم و فناوری بوشهر شکل گرفت. | 
+[Zanjanlug](http://www.zanjanlug.org/) | زنجان | هر چند وقت یکبار | - | گروه کاربران لینوکس زنجان با نام zanjanlug فعالیت خود را از ۱۵ تیرماه سال ۱۳۸۸ آغاز کرده و از فلسفه نرم‌افزارِ آزاد تبعیت و حمایت میکند | 
+[ShirazLUG](https://shirazlug.ir/) | شیراز | هر‌هفته | - | گروه کاربران گنو/لینوکس شیراز یا «شیرازلاگ» گروهی مستقل، مردم‌نهاد، ناسودبر و عمومی از کاربران رایانه علاقه‌مند به گنو/لینوکس ساکن شیراز می‌باشد. | [twitter](https://twitter.com/LugShiraz), [facebook](https://www.facebook.com/ShirazLUG)
+[Karajlug](http://www.karajlug.org/) | کرج | هر چند وقت یکبار | - | کرج‌لاگ اجتماع آزادی از دوست‌داران گنو/لینوکس است که بیشتر در شهر کرج زندگی می‌کنند | [twitter](https://twitter.com/karajlug), [facebook](http://www.facebook.com/pages/KarajLug/113288182057531)
+[Mashhadlug](http://www.mashhadlug.org/) | مشهد | دو هفته یکبار | - | مشهد‌لاگ یا گروه کاربران لینوکس مشهد یک گروه مردم‌نهاد و همچنین ناسودبر است که در زمینه‌ی گنو/لینوکس و نرم‌افزار آزاد فعالیت می‌کند. | 
+[Software talks](http://www.softwaretalks.ir/) | مشهد | دو هفته یکبار | - | جلسات باز نرم‌افزاری یک دورهمی دوستانه برای علاقمندان، توسعه‌دهندگان، مدیران پروژه و فعالان صنعت نرم‌افزار است که هر دو هفته یک بار به صورت منظم برگزار می‌شود. | [twitter](http://twitter.com/softwaretalks), [facebook](https://www.facebook.com/mashhadsoftwaretalks)
+
+برای تکمیل این لیست میتونین [در توییتر به من](https://twitter.com/ctyar) پیغام بدید.
