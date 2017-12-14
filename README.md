@@ -58,7 +58,7 @@
 ## ShirazLUG
 * گروه کاربران گنو/لینوکس شیراز یا «شیرازلاگ» گروهی مستقل، مردم‌نهاد، ناسودبر و عمومی از کاربران رایانه علاقه‌مند به گنو/لینوکس ساکن شیراز می‌باشد.
 * هر‌هفته در شیراز
-* [وبسایت](https://shirazlug.ir/)، [توییتر](https://twitter.com/LugShiraz)، [فیسبوک](https://www.facebook.com/ShirazLUG)
+* [وبسایت](https://shirazlug.ir/)، [توییتر](https://twitter.com/LugShiraz)، [اینستاگرام](https://www.instagram.com/ShirazLUG.ir/)، [فیسبوک](https://www.facebook.com/ShirazLUG)
 
 ## Karajlug
 * کرج‌لاگ اجتماع آزادی از دوست‌داران گنو/لینوکس است که بیشتر در شهر کرج زندگی می‌کنند.
