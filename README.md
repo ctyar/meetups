@@ -11,6 +11,11 @@
 * دو هفته یکبار در تهران
 * [وبسایت](http://laratalks.com/)، [توییتر](https://twitter.com/laratalks_com)، [فیسبوک](https://www.facebook.com/laratalks)
 
+## NSTehran
+* ما جمعی از توسعه دهندگان iOS و macOS هستیم که علاقه مندیم تکنولوژی های جدید در حوزه Cocoa را یادبگیریم و یاد بدهیم.
+* هر ماه در تهران
+* [رزرو](https://evand.com/organizations/%D9%85%D8%AC%DB%8C%D8%AF-%D8%AE%D9%88%D8%B4%D9%BE%D9%88%D8%B1-520216076)، [وبسایت](http://nstehran.ir/)، [توییتر](https://twitter.com/NSTehran)
+
 ## Open community of cloud computing
 * جامعه آزاد رایانش ابری ایران به منظور ایجاد پنجره ای واحدی در توسعه و بومی سازی فناوری اطلاعات بعنوان یک صنعت همگانی ایجاد شده است.
 * دو هفته یکبار در تهران
