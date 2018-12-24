@@ -1,5 +1,12 @@
 ﻿# Iran Tech Meetups
-لیستی از دورهمی‌های مرتبط با فناوری در ایران
+لیستی از دورهمی‌های مرتبط با فناوری در ایران.
+
+برای تکمیل این لیست می‌تونین در توییتر به [من](https://twitter.com/ctyar) پیغام بدید.
+
+## Software talks
+* جمعی از متخصصین نرم‌افزار که به طور مرتب دور هم جمع می شویم تا یاد بگیریم و یاد بدهیم.
+* هر سه‌شنبه به صورت آنلاین
+* [وبسایت](http://www.softwaretalks.ir/)، [توییتر](http://twitter.com/softwaretalks)، [فیسبوک](https://www.facebook.com/mashhadsoftwaretalks)، [توییتر](http://twitter.com/softwaretalks)، [یوتوب](https://www.youtube.com/SoftwareTalks)، [آپارات](https://www.aparat.com/softwaretalks)
 
 ## Hamfekr
 * مکانی برای گپ و گفت گو در مورد استارتاپ ها و تجارت الکترونیک.
@@ -66,11 +73,6 @@
 * هر‌هفته در شیراز
 * [وبسایت](https://shirazlug.ir/)، [توییتر](https://twitter.com/LugShiraz)، [اینستاگرام](https://www.instagram.com/ShirazLUG.ir/)، [فیسبوک](https://www.facebook.com/ShirazLUG)
 
-## Software talks
-* جلسات باز نرم‌افزاری یک دورهمی دوستانه برای علاقمندان، توسعه‌دهندگان، مدیران پروژه و فعالان صنعت نرم‌افزار است که هر دو هفته یک بار به صورت منظم برگزار می‌شود.
-* دو هفته یکبار در مشهد
-* [وبسایت](http://www.softwaretalks.ir/)، [توییتر](http://twitter.com/softwaretalks)، [فیسبوک](https://www.facebook.com/mashhadsoftwaretalks)
-
 ## Tabriz software open talks
 * جمعی از متخصصین نرم‌افزار که به طور هفتگی دور هم جمع می‌شویم تا یاد بگیریم و یاد بدهیم.
 * هر چند وقت یکبار در تبریز
@@ -81,4 +83,3 @@
 * هر چند وقت یکبار در زنجان
 * [وبسایت](http://www.zanjanlug.org/)
 
-برای تکمیل این لیست میتونین [در توییتر به من](https://twitter.com/ctyar) پیغام بدید.
