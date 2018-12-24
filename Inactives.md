@@ -19,3 +19,9 @@
 ## Bulug
 * هر چند وقت یکبار در بوشهر
 * [وبسایت](http://bulug.ir/)
+
+## Karajlug
+* کرج‌لاگ اجتماع آزادی از دوست‌داران گنو/لینوکس است که بیشتر در شهر کرج زندگی می‌کنند.
+* هر چند وقت یکبار در کرج
+* [وبسایت](http://www.karajlug.org/)، [توییتر](https://twitter.com/karajlug)، [فیسبوک](http://www.facebook.com/pages/KarajLug/113288182057531)
+ 
