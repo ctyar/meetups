@@ -73,13 +73,7 @@
 * هر‌هفته در شیراز
 * [وبسایت](https://shirazlug.ir/)، [توییتر](https://twitter.com/LugShiraz)، [اینستاگرام](https://www.instagram.com/ShirazLUG.ir/)، [فیسبوک](https://www.facebook.com/ShirazLUG)
 
-## Tabriz software open talks
-* جمعی از متخصصین نرم‌افزار که به طور هفتگی دور هم جمع می‌شویم تا یاد بگیریم و یاد بدهیم.
-* هر چند وقت یکبار در تبریز
-* [وبسایت](http://tabrizsoftware.opentalks.co/)، [فیسبوک](https://www.facebook.com/tosts.net)
-
 ## Zanjanlug
 * گروه کاربران لینوکس زنجان با نام zanjanlug فعالیت خود را از ۱۵ تیرماه سال ۱۳۸۸ آغاز کرده و از فلسفه نرم‌افزارِ آزاد تبعیت و حمایت میکند.
 * هر چند وقت یکبار در زنجان
 * [وبسایت](http://www.zanjanlug.org/)
-
