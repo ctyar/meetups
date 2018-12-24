@@ -6,11 +6,6 @@
 * هر‌هفته در تهران
 * [رزرو](http://evand.com/Hamfekr)، [وبسایت](http://hamfekr.net/)، [توییتر](https://twitter.com/hamfekr_tehran)
 
-## Laratalks
-* جلساتی هر دو هفته یک بار برای بحث درباره مسائل روز در دنیای استارت آپ ها،‌ آی تی و مخصوصا لارول.
-* دو هفته یکبار در تهران
-* [وبسایت](http://laratalks.com/)، [توییتر](https://twitter.com/laratalks_com)، [فیسبوک](https://www.facebook.com/laratalks)
-
 ## NSTehran
 * ما جمعی از توسعه دهندگان iOS و macOS هستیم که علاقه مندیم تکنولوژی های جدید در حوزه Cocoa را یادبگیریم و یاد بدهیم.
 * هر ماه در تهران
