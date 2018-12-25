@@ -6,6 +6,11 @@
 * دو هفته یکبار در تهران
 * [وبسایت](http://laratalks.com/)، [توییتر](https://twitter.com/laratalks_com)، [فیسبوک](https://www.facebook.com/laratalks)
 
+## Saturdays Decentral
+* "Saturdays Decentral" is a weekly Meetup where Bitcoin enthusiasts of Tehran gather to discuss and learn about Bitcoin, Ethereum and other Distributed Autonomous Protocols.
+* هر ماه در تهران
+* [رزرو](https://www.meetup.com/SaturdaysDecentral/)
+
 ## TehranJS
 * تهران جی اس تشکلی خودجوش است برای برگزاری نشست های ماهانه پیرامون جاوا اسکریپت و جدید ترین تکنولوژی های دنیای وب.
 * دو هفته یکبار در تهران
