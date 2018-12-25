@@ -26,7 +26,7 @@
 ## IDF Tehran
 * IDF Tehran is one of the Interaction Design Foundation local groups. This group is for everybody and specially for Iranian students/professionals who are interested in UI/UX, and Interaction Design or those who just have a passion for good design.
 * هر چند وقت یکبار در تهران
-* [رزرو](https://evand.com/organizations/idf-tehran-895365)، [وبسایت](https://www.interaction-design.org/local-group/asia/iran/tehran)، [توییتر](https://twitter.com/hamtech_tehran)، [تلگرام](https://telegram.me/iranidf/)، [اینستاگرام](https://www.instagram.com/idf_tehran)
+* [رزرو](https://evand.com/organizations/idf-tehran-895365)، [وبسایت](https://www.interaction-design.org/local-group/asia/iran/tehran)، [تلگرام](https://telegram.me/iranidf/)، [اینستاگرام](https://www.instagram.com/idf_tehran)
 
 ## NSTehran
 * ما جمعی از توسعه دهندگان iOS و macOS هستیم که علاقه مندیم تکنولوژی های جدید در حوزه Cocoa را یادبگیریم و یاد بدهیم.
