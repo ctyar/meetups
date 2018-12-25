@@ -23,6 +23,11 @@
 * دو هفته یکبار در تهران
 * [وبسایت](http://occc.ir/)، [فیسبوک](https://www.facebook.com/groups/autcloud/)
 
+## ProductTank-Tehran
+* ProductTank provides an opportunity for Product Managers in Tehran to exchange ideas and experiences about Product Design, Development and Management, Business Modelling, Metrics, User Experience and all the other things that get us excited.
+* هر ماه در تهران
+* [رزرو](https://www.meetup.com/ProductTank-Tehran/)
+
 ## Tehlug
 * تم محوری جلسات تهران‌لاگ عبارت است از نرم افزار آزاد به صورت عمومی. با این حال، فعالیت‌های متفاوتی از جمله معرفی توزیع‌های آزاد گنو/لینوکسی، معرفی انواع سیستم‌عامل‌های آزاد خانواده‌ی بی‌اس‌دی، نصب آنها، محتوای آموزشی و حتی بحث آزاد در حوزه‌ی تئوریک نرم افزار آزاد نیز به طور همزمان در این اجتماع دنبال می‌شوند.
 * هر چند وقت یکبار در تهران
