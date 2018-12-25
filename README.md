@@ -18,10 +18,15 @@
 * هر ‌هفته در تهران
 * [رزرو](http://evand.com/Hamfekr)، [وبسایت](http://hamfekr.net/)، [توییتر](https://twitter.com/hamfekr_tehran)
 
-## hamtech
+## Hamtech
 * همتک رویدادی ماهانه است که فضایی را برای علاقه‌مندان به هوش مصنوعی( ودیگر فناوری‌های لبه‌علم) و کارآفرینان فراهم می‌کند تا از یکدیگر یاد بگیرند و به تبادل نظر بپردازند و فرصت‌ها و ارزش‌های جدید خلق کنند.
 * آخرین چهارشنبه هر ماه در تهران
 * [رزرو](http://evand.com/hamtech)، [وبسایت](http://hamte.ch/)، [توییتر](https://twitter.com/hamtech_tehran)
+
+## IDF Tehran
+* IDF Tehran is one of the Interaction Design Foundation local groups. This group is for everybody and specially for Iranian students/professionals who are interested in UI/UX, and Interaction Design or those who just have a passion for good design.
+* هر چند وقت یکبار در تهران
+* [رزرو](https://evand.com/organizations/idf-tehran-895365)، [وبسایت](https://www.interaction-design.org/local-group/asia/iran/tehran)، [توییتر](https://twitter.com/hamtech_tehran)، [تلگرام](https://telegram.me/iranidf/)، [اینستاگرام](https://www.instagram.com/idf_tehran)
 
 ## NSTehran
 * ما جمعی از توسعه دهندگان iOS و macOS هستیم که علاقه مندیم تکنولوژی های جدید در حوزه Cocoa را یادبگیریم و یاد بدهیم.
