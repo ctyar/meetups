@@ -1,6 +1,11 @@
 ﻿# Iran Tech Meetups
 لیستی از دورهمی‌های **غیرفعال** مرتبط با فناوری در ایران.
 
+## Iran OpenStack
+* If you interested in cloud computing and IaaS and specially OpenStack, you can join us.
+* هر چند وقت یکبار در تهران
+* [رزرو](https://www.meetup.com/Iran-OpenStack/)
+
 ## Laratalks
 * جلساتی هر دو هفته یک بار برای بحث درباره مسائل روز در دنیای استارت آپ ها،‌ آی تی و مخصوصا لارول.
 * دو هفته یکبار در تهران
