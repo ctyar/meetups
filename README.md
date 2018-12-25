@@ -1,4 +1,6 @@
-﻿# Iran Tech Meetups
+﻿<div dir="rtl">
+
+# Iran Tech Meetups
 لیستی از دورهمی‌های مرتبط با فناوری در ایران.
 
 برای تکمیل این لیست می‌تونین در توییتر به [من](https://twitter.com/ctyar) پیغام بدید.
@@ -102,3 +104,5 @@
 * گروه کاربران گنو/لینوکس شیراز یا «شیرازلاگ» گروهی مستقل، مردم‌نهاد، ناسودبر و عمومی از کاربران رایانه علاقه‌مند به گنو/لینوکس ساکن شیراز می‌باشد.
 * هر ‌هفته در شیراز
 * [وبسایت](https://shirazlug.ir/)، [توییتر](https://twitter.com/LugShiraz)، [اینستاگرام](https://www.instagram.com/ShirazLUG.ir/)، [فیسبوک](https://www.facebook.com/ShirazLUG)
+ 
+</div>
