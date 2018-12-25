@@ -6,7 +6,7 @@
 ## Software talks
 * جمعی از متخصصین نرم‌افزار که به طور مرتب دور هم جمع می شویم تا یاد بگیریم و یاد بدهیم.
 * هر سه‌شنبه به صورت آنلاین
-* [وبسایت](http://www.softwaretalks.ir/)، [توییتر](http://twitter.com/softwaretalks)، [فیسبوک](https://www.facebook.com/mashhadsoftwaretalks)، [توییتر](http://twitter.com/softwaretalks)، [یوتوب](https://www.youtube.com/SoftwareTalks)، [آپارات](https://www.aparat.com/softwaretalks)
+* [وبسایت](http://www.softwaretalks.ir/)، [توییتر](https://twitter.com/softwaretalks)، [یوتوب](https://www.youtube.com/SoftwareTalks)، [آپارات](https://www.aparat.com/softwaretalks)
 
 ## Hamfekr
 * مکانی برای گپ و گفت گو در مورد استارتاپ ها و تجارت الکترونیک.
