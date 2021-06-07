@@ -40,7 +40,7 @@
 ## Karajlug
 * کرج‌لاگ اجتماع آزادی از دوست‌داران گنو/لینوکس است که بیشتر در شهر کرج زندگی می‌کنند.
 * هر چند وقت یکبار در کرج
-* [وبسایت](http://www.karajlug.org/)، [توییتر](https://twitter.com/karajlug)، [فیسبوک](http://www.facebook.com/pages/KarajLug/113288182057531)
+* [وبسایت](http://www.karajlug.org/)، [توییتر](https://twitter.com/karajlug)، [فیسبوک](http://www.facebook.com/pages/KarajLug/113288182057531), [توییچ](https://twitch.tv/karajlug)
 
 ## QazvinLUG
 * اینجا قزوین لاگ هستش، فضای متن باز استان قزوین اخبار، اطلاعیه، رویدادها، ساعت‌ برگزاری و... رو اینجا هماهنگ می‌کنیم.
